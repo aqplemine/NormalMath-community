@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Email me
+    url: mailto:aqplemine@proton.me
+    about: Email me for support
+  - name: Support page
+    url: https://normalmath.vercel.app/support.html
+    about: The support page on NormalMath.
+  - name: Jam.dev link
+    url: https://recorder.jam.dev/DtC3B3w
+    about: IMPORTANT: Make a jam.dev AND a GitHub issue for the BEST support level! This is NormalMaths jam.dev support site.
