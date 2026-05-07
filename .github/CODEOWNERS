@@ -1,0 +1,6 @@
+# Each line defines file patterns and the corresponding owners (preceded by '@')
+
+.github/*               @aqplemine
+README.md               @aqplemine
+SECURITY.md               @aqplemine
+.github/ISSUE_TEMPLATE/*               @aqplemine
